@@ -147,7 +147,7 @@
   #include "wm_strings_pt.h"
 #elif defined(LANG_PT_BR)
   #include "wm_strings_pt_br.h"
-#elif defined(LANG_PT_BR)
+#elif defined(LANG_PL)
   #include "wm_strings_pl.h"
 #else
   #include "wm_strings_en.h"
